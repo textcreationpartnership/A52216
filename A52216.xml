@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from So--- Ho--- concerning the D. of Monmouth, L. Grey, and the E. of Shaftbury, and of the strange manner of finding a dead corps of a man-kind in a cellar in the parish of St. Martins in the Fields.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52216</idno><idno type="EEBO-CITATION">8999828</idno>
+  <idno type="VID">42177</idno>
+  <idno type="EEBO-PROQUEST">2264208062</idno>
+  
+            <idno type="STC">Wing N1003</idno>
+            <idno type="STC">ESTC R25506</idno>
+            <idno type="OCLC">08999828</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1290:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from So--- Ho--- concerning the D. of Monmouth, L. Grey, and the E. of Shaftbury, and of the strange manner of finding a dead corps of a man-kind in a cellar in the parish of St. Martins in the Fields.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42177:1"/>
+            <head>News from So—Ho,— CONCERNING THE D. of <hi>Monmouth, L. Grey,</hi> and the E. of SHAFTSBURY: And of the strange manner of finding a Dead Corps of a Man-kind in a Cellar, in the Parish of St. <hi>Martins in the Fields.</hi>
+            </head>
+            <p>ON <hi>Tuesday</hi> the 18th. of <hi>September,</hi> a Gentlewoman of <hi>So—ho,—</hi> who had some days ago let a Cellar to a Neighbour, on pretence of be<g ref="char:EOLhyphen"/>ing a Merchant, to put his Merchandice in; whether out of a De<g ref="char:EOLhyphen"/>sign to get Mony by peeping (as she might imagine) into a parcel of Prohibited Wares, and set up for a Privateer Seizer; or whether the Ghost of the Deceased had appeared to her, as the Lord <hi>Russel</hi>'s did to the Consta<g ref="char:EOLhyphen"/>ble in the next Parish or the coldness of the Season; or what other cause she had for her mistrust, is uncertain. And it is as certain the good Woman alled<g ref="char:EOLhyphen"/>ges she could not sleep in her bed, and an unusual Fancy possesses her, that she must and would see what was in a certain Chest our <hi>Merchant</hi> had newly sto<g ref="char:EOLhyphen"/>ed in his Cellar, for which purpose, a Constable is immediately sent for to break open the said Chest. Which being no sooner done, instead of <hi>Point de Ve<g ref="char:EOLhyphen"/>nice, Lorain,</hi> or <hi>French Toys,</hi> our <hi>Searchers</hi> find a Dead Corps in a Tinn Coffin, Glazed at each end, so as the Body was plainly discerned: and the Coffin, besides the Body, was filled with some Liquid Matter as clear as Christal. This unexpected Appearance struck such an amazing Consternation on the curious <hi>Inquisitors,</hi> that they were struck as Dumb, as the <hi>Brass Silver-Smith</hi> was at the sight of Sir <hi>Edmond-Bury-Godfrey</hi>'s Ghost, in <hi>Somerset House</hi> Chap<g ref="char:EOLhyphen"/>pel, on the <hi>Dark Sunday,</hi> and were constrained to think of some New Coun<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls; I or <hi>Sel-preservation</hi> was now on the Stage of the <hi>Project;</hi> and our <hi>Nick-Nacks</hi> as clearly vanished. Mrs. <hi>Buisey,</hi> and Mr. <hi>Constable,</hi> having delibe<g ref="char:EOLhyphen"/>rated the whole Matter, it was resolved a <hi>Coroner</hi> should be sent for, and ac<g ref="char:EOLhyphen"/>cording to the Duty of his Office, he came and viewed the Corps, and Im<g ref="char:EOLhyphen"/>pannel'd a <hi>Jury</hi> to inquire, <hi>&amp;c.</hi> and one or two, that were some way or other concern'd in taking the Cellar, or laying the Chest there, were secured, and abundance of people came crowding as <hi>Spectators,</hi> to view the Corps. Mr. <hi>Coroner</hi> and the <hi>Jury</hi> being retired to a convenient House to take the In<g ref="char:EOLhyphen"/>quisition, mean while the Throng grew great in a little space of time and the <hi>Opinions</hi> were almost as numerous as the <hi>Spectators.</hi> Amongst which, a seem<g ref="char:EOLhyphen"/>ing very Grave Person by his Cloaths, being of a Blackish Colour, and the Fa<g ref="char:EOLhyphen"/>cings of his Sleeves and Cape, of Black Plush, very deliberate in his way of speaking, Addresses himself to the Multitude, in these very words. <hi>Gentlemen, There are many</hi> Plots <hi>abroad, I say,</hi> Popish Plots, <hi>which you are all very sensible of, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to me, is a</hi> Popish Plot; <hi>which has cost them no small pains nor char<g ref="char:EOLhyphen"/>ges to bring to pass; as you may see Gantlemen, the Dead Body, the Tinn Coffin, made <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some</hi> Popish Model, <hi>superstitiously Glazed at each, end, which has cost Mony Gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men; and a Cellar taken to put it into; will cost Mony Gentlemen;
+<pb n="2" facs="tcp:42177:2"/> and by the scent of the Liquid that is put up with the Corps, it should be</hi> Popish Spirit of Wine, <hi>Gentlemen, to preserve that poor Carcass as an everlasting Mo<g ref="char:EOLhyphen"/>nument, to satiate the wicked and over curious Opticks of their</hi> Babylonish Cruel<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ship, <hi>(it being the quality of Spirit of Wine, to preserve any Dead Corps always in the same manner it was, when first put into it.)</hi>
+            </p>
+            <p>Another such a sort of an <hi>Animal</hi> says, Truly, he was of the discreet, sober, and grave Gentleman's Opinion; That it was the bottom of a Horrid, and most Damnable, Devillish, Accursed, Confounded <hi>Popish Plot,</hi> upon the True Protestants: And in my Judgment, says he, It can be no Body, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the Corps of the D. of <hi>M—</hi> The <hi>Papists</hi> have seeked all manner of ways, to destroy the <hi>True Protestant Duke.</hi> I have been told within this fortnight, That Mrs. <hi>Colleir,</hi> the <hi>Popish Mid-wife,</hi> had stilled His Grace in her <hi>Meal-Tub,</hi> if one <hi>Danger<g ref="char:EOLhyphen"/>field,</hi> a <hi>True Protestant Captain,</hi> had not come in by chance, hearing a Cry of <hi>Murther:</hi> and now I see what it's come to, they would never leave him. By your leave, Sir, says a Third, I have lived near my Lord <hi>Grey</hi> many years; indeed, I cannot say he is a Duke, but he is as much a <hi>True Protestant,</hi> as any of them, in the Kings Dominions: and I may ra<g ref="char:EOLhyphen"/>ther believe the Corps to be his Lordships; for I have been told within this nine days, his Lordship is missing, and that diligent search has been made in many places, for him, and that he could not be heard of in City, Town, or Country: and that the <hi>Popish Currs</hi> had either Murthered him, or worse: and that the bulk of the Corps did much resemble his Lordships Proportion. A Fourth puts in, and says, Gentlemen, I hope we are a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l for <hi>Li<g ref="char:EOLhyphen"/>berty of Conscience,</hi> and that I may have freedom of Speech, and be allowed the favour of Speaking in my own way and method, and I will speak what I may think of this piece of <hi>Popery.</hi> Gentlemen, I have had the fortune to Travel divers <hi>Popish Countreys,</hi> and have observed many of their Devillish Devices; There are many ways of Murthering of <hi>Prote<g ref="char:EOLhyphen"/>stants,</hi> the <hi>Papists</hi> do not Murther <hi>Protestants</hi> all one way. Sometimes they may do it with Consecrated Guns, Daggers, Pistols, Blac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bills, <hi>&amp;c.</hi> Sometimes with Cravats, Musterd-Balls, Tormentills, or Blunderbusses. But with humble submission to your discreeter Judgments, I think it may be the Corps of the <hi>Noble Peer,</hi> my endeared Friend, whom I most humbly conceive, you all might have known, Gentlemen, the <hi>True Protestant</hi> Earl of <hi>Shaftsbury.</hi> I have had the Honour almost these five years past (till the time of his be<g ref="char:EOLhyphen"/>ing forced out of his Native Country, by <hi>Papists</hi>) of a more than ordinary Converse with his Lordship, and his Lordship has not been niggardly, I'll assure you Gentlemen, in laying himself, nay, his Life, Estate, Honour, and all that could be dear to a Mortal, at the Feet of the <hi>True Protestant Cause;</hi> and how much he has been Clamored at by the <hi>Papists,</hi> and those that are <hi>Popishly</hi> affected: There is no Man here, but has seen enough to make a true Judgment of? Not but that there are many at this time of day, do believe he was a Right <hi>Noble Peer,</hi> as well as a <hi>Loyal Statesman.</hi> In Truth, Gentlemen, and that I wou'd not say, were it not so, the <hi>Papists</hi> and their <hi>Adherents,</hi> have not let the Good Lord sleep a quarter of a day in his Grave, since he departed this frail Life. One Calls him <hi>Politick Pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g,</hi> another <hi>Will with a Whisp;</hi> some <hi>Old Rumper,</hi> others <hi>Traytor,</hi> and wishes his Head on the Top of <hi>Westminster Hall;</hi> as if his Lordship was fit for no other, than the Company of <hi>Jack-Daws</hi> or <hi>Meg-Pies.</hi> Nay, some are so cruelly inclin'd towards the Memory of the <hi>True Prot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stant Feer,</hi> that they would have a Quarter of him exposed in every City, and Market-Town, in <hi>England;</hi> And the Lord knows, he was but a very little Man, an Inch of his flesh would hardly supply the <hi>Project.</hi> Nay, I heard a wicked <hi>Tory</hi> say, not many days ago, That he would have him pyked into the Hole with <hi>Noll Bradshaw,</hi> and <hi>Ireton,</hi> at <hi>Tyburn.</hi> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d truly, Gentlemen, the thoughts of these things that I have related, per<g ref="char:EOLhyphen"/>swades me to believe this very Corps to be the <hi>Noble Lords,</hi> whom the <hi>Papists</hi> have stolen from his Tomb, and layed out all this cost for some such <hi>Popish Practices,</hi> as I have told you. For they spare no costs, you know Gentlemen, to carry on Plots to Murther <hi>True Prote<g ref="char:EOLhyphen"/>stants.</hi> Which being said, a Universal Groan was heard throughout the Croud, far exceed<g ref="char:EOLhyphen"/>ing that of the <hi>Groaning-Board.</hi> And the sound was no sooner was no heard, but one cry<g ref="char:EOLhyphen"/>ed out, It is the Lord <hi>Shaf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbury!</hi> another the Lord <hi>Shaftsbury!</hi> Ah, the Good Lord <hi>Shafts<g ref="char:EOLhyphen"/>bury!</hi> You may see what these <hi>Papists</hi> will do with us all, when we are Dead. Burying in <hi>Woollen,</hi> says another, is a Fly-blow to this: after all,</p>
+            <p>Mr. <hi>Coroner</hi> having examined several Evidences of the Fact, to whom it seems at pre<g ref="char:EOLhyphen"/>sent to appear, That the <hi>Corps</hi> was a person deceased about 7. or 8 days ago; his <hi>Brother,</hi> with whom he dwelt, being a <hi>Chyrurgion,</hi> had Enclosed it, in the manner as you have heard, to satisfie his own <hi>Curi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sity;</hi> and the Body is removed to a Shead, in St. <hi>Martins</hi> New Church-Yard, where it lyes at present, in Order to it's Interment.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> E. Mallet, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
